@@ -261,12 +261,16 @@ font-size: 24px;
     font-size: 16px;
     color: #777;
     line-height: 35px;
+   position: relative;
 }
 #internship .internship-left .internship-content ul li i{
   font-size: 18px;
     padding-right: 10px;
     color: #12c8fc;
     font-weight: 600;
+    position: absolute;
+    top: 9px;
+    left: -24px;
 }
 #internship .internship-right .internship-img img{
   max-width: 100%;
